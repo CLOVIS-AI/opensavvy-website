@@ -51,3 +51,21 @@ mirror-playground:
     - if: $CI_PIPELINE_SOURCE == 'schedule'
     - when: manual
       allow_failure: true
+
+pages:
+  image: alpine:latest
+  stage: deploy
+  needs:
+    - job: build
+      artifacts: true
+
+  script:
+    - mv dist public
+
+  artifacts:
+    paths:
+      - public
+
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  interruptible: false
