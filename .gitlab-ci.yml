@@ -8,9 +8,11 @@ include:
   - remote: https://gitlab.com/opensavvy/ci-templates/-/raw/main/version.gitlab-ci.yml
   - remote: https://gitlab.com/opensavvy/ci-templates/-/raw/main/mirror.gitlab-ci.yml
 
+  - local: docs/website/.gitlab-ci.yml
+
 variables:
   # https://gitlab.com/opensavvy/automation/containers
-  ci_containers: 0.3.0
+  ci_containers: 0.4.1
 
 workflow:
   rules:
@@ -36,6 +38,8 @@ build:
     deployment_tier: development
   interruptible: true
 
+# region Automatically mirror the previous layer of the playground
+
 mirror-playground:
   stage: deploy
   extends: [ .os.mirror ]
@@ -56,14 +60,21 @@ mirror-playground:
     - when: manual
       allow_failure: true
 
+# endregion
+# region GitLab Pages
+
 pages:
   image: alpine:latest
   stage: deploy
   needs:
+    - job: mkdocs
+      artifacts: true
     - job: build
       artifacts: true
 
   script:
+    - mkdir -p public
+    - mv docs-website public/docs
     - mv dist public
 
   artifacts:
@@ -73,3 +84,5 @@ pages:
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
   interruptible: false
+
+# endregion
