@@ -21,23 +21,6 @@ workflow:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
     - if: $CI_COMMIT_TAG
 
-build:
-  image: node:alpine
-  stage: build
-
-  script:
-    - yarn
-    - yarn run build
-
-  artifacts:
-    paths:
-      - dist
-  environment:
-    name: review/$CI_COMMIT_REF_SLUG
-    url: https://$CI_PROJECT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/dist/index.html
-    deployment_tier: development
-  interruptible: true
-
 # region Automatically mirror the previous layer of the playground
 
 mirror-playground:
@@ -69,13 +52,10 @@ pages:
   needs:
     - job: mkdocs
       artifacts: true
-    - job: build
-      artifacts: true
 
   script:
     - mkdir -p public
     - mv docs-website public/docs
-    - mv dist public
 
   artifacts:
     paths:
