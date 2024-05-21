@@ -89,6 +89,7 @@ nav:
           - libraries/groundwork/pedestal-cache.md
           - libraries/groundwork/backbone.md
           - libraries/groundwork/prepared.md
+          - libraries/groundwork/spine.md
 
   - Module1: []
 
