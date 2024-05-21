@@ -82,6 +82,7 @@ nav:
 
   - Kotlin Multiplatform:
       - libraries/overview.md
+      - libraries/supported-platforms.md
 
   - Module1: []
 
