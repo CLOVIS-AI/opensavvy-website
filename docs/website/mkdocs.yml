@@ -92,6 +92,10 @@ nav:
           - libraries/groundwork/spine.md
           - libraries/groundwork/indolent.md
           - libraries/groundwork/sentier.md
+      - User interface:
+          - libraries/ui/decouple.md
+          - libraries/ui/lazy-layouts.md
+          - libraries/ui/material3.md
 
   - Module1: []
 
