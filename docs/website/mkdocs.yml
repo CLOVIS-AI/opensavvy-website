@@ -96,6 +96,9 @@ nav:
           - libraries/ui/decouple.md
           - libraries/ui/lazy-layouts.md
           - libraries/ui/material3.md
+      - Gradle plugins:
+          - libraries/gradle/vite.md
+          - libraries/gradle/kjs-resources.md
 
   - Module1: []
 
