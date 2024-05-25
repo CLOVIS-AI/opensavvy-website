@@ -1,7 +1,7 @@
-site_name: OpenSavvy Playground
+site_name: OpenSavvy
 site_author: OpenSavvy & contributors
 site_description: >
-  Project template with CI/CD and IDE configuration.
+  Open source projects with a deep focus on quality, automation and security.
 
 theme:
   name: material
@@ -80,8 +80,24 @@ use_directory_urls: false
 nav:
   - Home: index.md
 
-  - Getting started: []
+  - Kotlin Multiplatform:
+      - libraries/overview.md
+      - libraries/supported-platforms.md
+      - Groundwork:
+          - libraries/groundwork/pedestal-progress.md
+          - libraries/groundwork/pedestal-state.md
+          - libraries/groundwork/pedestal-cache.md
+          - libraries/groundwork/backbone.md
+          - libraries/groundwork/prepared.md
+          - libraries/groundwork/spine.md
+          - libraries/groundwork/indolent.md
+          - libraries/groundwork/sentier.md
+      - User interface:
+          - libraries/ui/decouple.md
+          - libraries/ui/lazy-layouts.md
+          - libraries/ui/material3.md
+      - Gradle plugins:
+          - libraries/gradle/vite.md
+          - libraries/gradle/kjs-resources.md
 
-  - Module1: []
 
-  - Module2: []

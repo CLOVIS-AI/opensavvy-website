@@ -2,6 +2,8 @@
 
 Main website for OpenSavvy.
 
+The website's code is in the [docs/website](docs/website) subdirectory.
+
 ## License
 
 This project is licensed under the [Apache 2.0 license](LICENSE).
