@@ -100,4 +100,6 @@ nav:
           - libraries/gradle/vite.md
           - libraries/gradle/kjs-resources.md
 
+  - System administration:
+      - system/overview.md
 
