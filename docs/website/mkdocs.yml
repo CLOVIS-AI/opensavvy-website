@@ -102,4 +102,5 @@ nav:
 
   - System administration:
       - system/overview.md
+      - system/packager.md
 
