@@ -104,4 +104,5 @@ nav:
       - system/overview.md
       - system/packager.md
       - system/toolkit.md
+      - system/aur-template.md
 
