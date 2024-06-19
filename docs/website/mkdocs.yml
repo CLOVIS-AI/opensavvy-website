@@ -111,3 +111,4 @@ nav:
 
   - Automation:
       - automation/overview.md
+      - automation/containers.md
