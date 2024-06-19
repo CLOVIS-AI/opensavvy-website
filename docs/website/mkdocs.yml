@@ -112,3 +112,4 @@ nav:
   - Automation:
       - automation/overview.md
       - automation/containers.md
+      - automation/gradle-conventions.md
