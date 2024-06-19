@@ -109,3 +109,9 @@ nav:
       - system/toolkit.md
       - system/aur-template.md
 
+  - Automation:
+      - automation/overview.md
+      - automation/containers.md
+      - automation/gradle-conventions.md
+      - automation/gitlab-kts.md
+      - automation/gitlab-templates.md
