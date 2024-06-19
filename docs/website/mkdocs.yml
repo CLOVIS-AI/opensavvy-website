@@ -109,3 +109,5 @@ nav:
       - system/toolkit.md
       - system/aur-template.md
 
+  - Automation:
+      - automation/overview.md
