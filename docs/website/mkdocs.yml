@@ -114,3 +114,4 @@ nav:
       - automation/containers.md
       - automation/gradle-conventions.md
       - automation/gitlab-kts.md
+      - automation/gitlab-templates.md
