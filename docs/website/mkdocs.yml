@@ -113,3 +113,4 @@ nav:
       - automation/overview.md
       - automation/containers.md
       - automation/gradle-conventions.md
+      - automation/gitlab-kts.md
