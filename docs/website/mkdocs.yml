@@ -115,3 +115,6 @@ nav:
       - automation/gradle-conventions.md
       - automation/gitlab-kts.md
       - automation/gitlab-templates.md
+
+  - Open Source:
+      - open-source/overview.md
