@@ -25,6 +25,7 @@ suite("Test users") {
 
 <div class="grid cards" markdown>
 
+- [Website](https://opensavvy.gitlab.io/groundwork/prepared/docs)
 - [Repository](https://gitlab.com/opensavvy/groundwork/prepared)
 - Licensed under **Apache 2.0**
 - Supports [most Kotlin platforms](../supported-platforms.md)
