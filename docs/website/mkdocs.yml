@@ -122,9 +122,10 @@ nav:
       - open-source/overview.md
       - open-source/playground.md
       - open-source/licenses.md
-      - Contributing:
-          - open-source/contributing/1-forks.md
-          - open-source/contributing/2-changes.md
-          - open-source/contributing/3-review.md
+      - Tutorials:
+          - Contributing to open source:
+              - open-source/contributing/1-forks.md
+              - open-source/contributing/2-changes.md
+              - open-source/contributing/3-review.md
 
 # Leave this empty line at the end
