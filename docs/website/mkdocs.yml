@@ -86,7 +86,7 @@ nav:
   - Home: index.md
 
   - Kotlin Multiplatform:
-      - libraries/overview.md
+      - libraries/index.md
       - libraries/supported-platforms.md
       - Groundwork:
           - libraries/groundwork/pedestal-progress.md
@@ -106,20 +106,20 @@ nav:
           - libraries/gradle/kjs-resources.md
 
   - System administration:
-      - system/overview.md
+      - system/index.md
       - system/packager.md
       - system/toolkit.md
       - system/aur-template.md
 
   - Automation:
-      - automation/overview.md
+      - automation/index.md
       - automation/containers.md
       - automation/gradle-conventions.md
       - automation/gitlab-kts.md
       - automation/gitlab-templates.md
 
   - Open Source:
-      - open-source/overview.md
+      - open-source/index.md
       - open-source/playground.md
       - open-source/licenses.md
       - Tutorials:

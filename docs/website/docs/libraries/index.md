@@ -1,4 +1,4 @@
-# Overview
+# Kotlin Multiplatform
 
 Many of our projects are built upon [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), a technology for the [Kotlin language](https://kotlinlang.org/docs/kotlin-tour-welcome.html) that allows compiling the same code natively on multiple platforms.
 
