@@ -91,6 +91,7 @@ nav:
       - Groundwork:
           - libraries/groundwork/pedestal-progress.md
           - libraries/groundwork/pedestal-state.md
+          - libraries/groundwork/pedestal-weak.md
           - libraries/groundwork/pedestal-cache.md
           - libraries/groundwork/backbone.md
           - libraries/groundwork/prepared.md

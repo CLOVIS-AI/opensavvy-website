@@ -18,6 +18,7 @@ Groundwork is a collection of Kotlin Multiplatform libraries offering various fu
 
 - Reporting **progress information** through function calls • [Learn more](groundwork/pedestal-progress.md)
 - Representing **failed and in-progress states** • [Learn more](groundwork/pedestal-progress.md)
+- Multiplatform algorithms for **weak references** • [Learn more](groundwork/pedestal-weak.md)
 - **Cache algorithms** that take advantage of platform-specific features, like `LocalStorage` • [Learn more](groundwork/pedestal-cache.md)
 - Software architecture for **fullstack multiplatform and heterogeneous apps** • [Learn more](groundwork/backbone.md)
 - **Magicless automated testing** • [Learn more](groundwork/prepared.md)
