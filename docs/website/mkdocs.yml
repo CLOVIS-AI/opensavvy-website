@@ -103,6 +103,7 @@ nav:
           - libraries/ui/lazy-layouts.md
           - libraries/ui/material3.md
       - Gradle plugins:
+          - libraries/gradle/dokka-for-mkdocs.md
           - libraries/gradle/vite.md
           - libraries/gradle/kjs-resources.md
 

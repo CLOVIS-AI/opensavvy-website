@@ -45,6 +45,7 @@ The Kotlin ecosystem at large is built with [Gradle](https://gradle.org/). Throu
 
 <div class="grid cards" markdown>
 
+- Embedding **Dokka in MkDocs** • [Learn more](gradle/dokka-for-mkdocs.md)
 - **Vite support** for Kotlin/JS • [Learn more](gradle/vite.md)
 - **Transitive resources support** for Kotlin/JS • [Learn more](gradle/kjs-resources.md)
 
