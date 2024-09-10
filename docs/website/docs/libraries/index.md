@@ -36,6 +36,7 @@ Compose UI is a technology created by Google, and ported to some platforms by Je
 - Writing multiplatform UIs that **adapt themselves to each platform** • [Learn more](ui/decouple.md)
 - **Lazy layouts** for Compose HTML • [Learn more](ui/lazy-layouts.md)
 - **Material3** for Compose HTML • [Learn more](ui/material3.md)
+- **Material You color generation algorithm** for Kotlin Multiplatform • [Learn more](ui/material3.md)
 
 </div>
 

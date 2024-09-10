@@ -102,6 +102,7 @@ nav:
           - libraries/ui/decouple.md
           - libraries/ui/lazy-layouts.md
           - libraries/ui/material3.md
+          - libraries/ui/material-you.md
       - Gradle plugins:
           - libraries/gradle/dokka-for-mkdocs.md
           - libraries/gradle/vite.md
