@@ -130,5 +130,6 @@ nav:
               - open-source/contributing/1-forks.md
               - open-source/contributing/2-changes.md
               - open-source/contributing/3-review.md
+          - open-source/gitlab-runner.md
 
 # Leave this empty line at the end

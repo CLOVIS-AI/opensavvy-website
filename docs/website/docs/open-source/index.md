@@ -28,5 +28,5 @@ These articles describe the most common practices as well as our own conventions
 This section explains how to perform specific actions to configure your own environment.
 These articles are not necessary in the general case, but we found that they are a common source of difficulty for our contributors.
 
-- [**Self-hosting a GitLab runner**](guides/gitlab-runners.md)
+- [**Self-hosting a GitLab runner**](gitlab-runner.md)
 - [**Configuring a GitLab project**](guides/gitlab-config.md)
