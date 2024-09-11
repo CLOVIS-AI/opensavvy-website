@@ -30,3 +30,12 @@ These articles are not necessary in the general case, but we found that they are
 
 - [**Self-hosting a GitLab runner**](gitlab-runner.md)
 - [**Configuring a GitLab project**](gitlab-project.md)
+
+## Conventions
+
+To be able to develop as many projects as we do, we must structure the way we work such that it is easy to integrate work from different people. We therefore have created different conventions that describe how we prefer to do things.
+
+These conventions are inspired by many popular similar options, so they should be familiar to most developers.
+
+- [**OpenSavvy Flow**](opensavvy-flow.md)
+- [**OpenSavvy Commit Style**](opensavvy-commits.md)

@@ -132,5 +132,8 @@ nav:
               - open-source/contributing/3-review.md
           - open-source/gitlab-runner.md
           - open-source/gitlab-project.md
+      - Conventions:
+          - Workflow: open-source/opensavvy-flow.md
+          - Commit style: open-source/opensavvy-commits.md
 
 # Leave this empty line at the end
