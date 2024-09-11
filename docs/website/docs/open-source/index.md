@@ -39,3 +39,4 @@ These conventions are inspired by many popular similar options, so they should b
 
 - [**OpenSavvy Flow**](opensavvy-flow.md)
 - [**OpenSavvy Commit Style**](opensavvy-commits.md)
+- [**OpenSavvy Code Style**](code-style/index.md)

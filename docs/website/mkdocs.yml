@@ -135,5 +135,7 @@ nav:
       - Conventions:
           - Workflow: open-source/opensavvy-flow.md
           - Commit style: open-source/opensavvy-commits.md
+          - Code style:
+              - open-source/code-style/index.md
 
 # Leave this empty line at the end
