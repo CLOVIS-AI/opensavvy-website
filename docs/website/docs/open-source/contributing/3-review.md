@@ -1,6 +1,9 @@
 # Successful code reviews
 
-At this point, you have decided to contribute to an open source project, [created your own fork](1-forks.md) and [created a merge request](2-changes.md). You have waited a bit, then received an email from GitLab notifying you that the maintainers have reviewed your MR. This document describes the next part of the process.
+!!! note ""
+    This tutorial assumes you have completed the [fork configuration](1-forks.md) and [created a merge request](2-changes.md).
+
+You have waited a bit, then received an email from GitLab notifying you that the maintainers have reviewed your MR. This document describes the next part of the process.
 
 **First, you should understand that it is rare that a merge request is accepted on the first attempt.**
 This usually only happens when the change is extremely simple, or when the contributor knows the project very well.
