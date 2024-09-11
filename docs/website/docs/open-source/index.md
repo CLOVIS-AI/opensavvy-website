@@ -1,4 +1,4 @@
-# Overview
+# Open Source
 
 Open Source is a statement for the future: we believe in the ecosystem, and we believe that anyone should continue our projects, should we give them up. 
 
@@ -28,5 +28,15 @@ These articles describe the most common practices as well as our own conventions
 This section explains how to perform specific actions to configure your own environment.
 These articles are not necessary in the general case, but we found that they are a common source of difficulty for our contributors.
 
-- [**Self-hosting a GitLab runner**](guides/gitlab-runners.md)
-- [**Configuring a GitLab project**](guides/gitlab-config.md)
+- [**Self-hosting a GitLab runner**](gitlab-runner.md)
+- [**Configuring a GitLab project**](gitlab-project.md)
+
+## Conventions
+
+To be able to develop as many projects as we do, we must structure the way we work such that it is easy to integrate work from different people. We therefore have created different conventions that describe how we prefer to do things.
+
+These conventions are inspired by many popular similar options, so they should be familiar to most developers.
+
+- [**OpenSavvy Flow**](opensavvy-flow.md)
+- [**OpenSavvy Commit Style**](opensavvy-commits.md)
+- [**OpenSavvy Code Style**](code-style/index.md)

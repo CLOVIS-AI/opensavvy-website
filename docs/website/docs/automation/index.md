@@ -1,4 +1,4 @@
-# Overview
+# Automation
 
 At OpenSavvy, we believe that the only way to achieve our goals of quality without losing on efficiency is to automate everything that can be automated. We also deploy a large fleet of libraries, whose configuration must remain in sync.
 

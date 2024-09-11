@@ -1,4 +1,4 @@
-# Overview
+# Kotlin Multiplatform
 
 Many of our projects are built upon [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), a technology for the [Kotlin language](https://kotlinlang.org/docs/kotlin-tour-welcome.html) that allows compiling the same code natively on multiple platforms.
 
@@ -18,6 +18,7 @@ Groundwork is a collection of Kotlin Multiplatform libraries offering various fu
 
 - Reporting **progress information** through function calls • [Learn more](groundwork/pedestal-progress.md)
 - Representing **failed and in-progress states** • [Learn more](groundwork/pedestal-progress.md)
+- Multiplatform algorithms for **weak references** • [Learn more](groundwork/pedestal-weak.md)
 - **Cache algorithms** that take advantage of platform-specific features, like `LocalStorage` • [Learn more](groundwork/pedestal-cache.md)
 - Software architecture for **fullstack multiplatform and heterogeneous apps** • [Learn more](groundwork/backbone.md)
 - **Magicless automated testing** • [Learn more](groundwork/prepared.md)
@@ -35,6 +36,7 @@ Compose UI is a technology created by Google, and ported to some platforms by Je
 - Writing multiplatform UIs that **adapt themselves to each platform** • [Learn more](ui/decouple.md)
 - **Lazy layouts** for Compose HTML • [Learn more](ui/lazy-layouts.md)
 - **Material3** for Compose HTML • [Learn more](ui/material3.md)
+- **Material You color generation algorithm** for Kotlin Multiplatform • [Learn more](ui/material3.md)
 
 </div>
 
@@ -44,6 +46,7 @@ The Kotlin ecosystem at large is built with [Gradle](https://gradle.org/). Throu
 
 <div class="grid cards" markdown>
 
+- Embedding **Dokka in MkDocs** • [Learn more](gradle/dokka-for-mkdocs.md)
 - **Vite support** for Kotlin/JS • [Learn more](gradle/vite.md)
 - **Transitive resources support** for Kotlin/JS • [Learn more](gradle/kjs-resources.md)
 
