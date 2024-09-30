@@ -26,7 +26,7 @@ OpenSavvy projects have four kinds of branches:
 
 **Feature branches** are where changes happen. A change always starts in a feature branch, which is merged in one of the previous three types of branches when it is completed. Feature branches always start with an issue number, followed by a short description of the issue (e.g. `12-fix-macos-pipeline` or `167-upgrade-react`).
 
-If you want to learn more about our branching strategy, read [our workflow specification](../../conventions/git/flow.md). Here's the short version:
+If you want to learn more about our branching strategy, read [our workflow specification](../opensavvy-flow.md). Here's the short version:
 
 - Everything starts with an issue.
 - Changes are made in a feature branch which is named after the issue.
@@ -131,7 +131,7 @@ Commit messages should have the shape `type(module): Short message explaining th
 	- If other areas of the project are impacted by the change, they may still be in the same commit (e.g. renaming a function in a module impacts other modules). Multiple changes spanning multiple modules should be split into a commit each.
 - The description should be a small sentence which explains the goal of the change, starting with an uppercase letter, but without a terminating period.
 
-To learn more, [read our commit style](../../conventions/git/commits.md).
+To learn more, [read our commit style](../opensavvy-commits.md).
 
 Since we already linked the branch to the merge request, you are free to use `git push` whenever you want to upload your changes. Pushing will run the automated tests.
 

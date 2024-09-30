@@ -81,4 +81,4 @@ The name of these tags must be a valid version according to Semantic Versioning,
 The relationship between project stability and Semantic Versioning is detailed in the [stability](../../stability.md) document.
 
 All project releases from the same release branch should share the same MAJOR and MINOR version.
-A release branch must be named after the MAJOR and MINOR versions it is assigned to (e.g. the branch `1.2` contains the tags `1.2.0`, `1.2.1`, etc).
+A release branch must be named after the MAJOR and MINOR versions it is assigned to (e.g. the branch `1.2` contains the tags `1.2.0`, `1.2.1`, etc.).

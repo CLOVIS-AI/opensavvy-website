@@ -62,7 +62,7 @@ Of course, if you only need to add a little thing to your contribution, it's not
 
 **Making the contribution easier to understand.** If you originally committed things in the order you did them, it's possible this order isn't the easiest to understand what happened. In this case, we encourage that changes be reordered to facilitate understanding.
 
-Again, the history is a tool to help readers understand what happened. It is not useful for future readers to know the list of things that were changed between the first attempt and the version that is finally merged. What is useful, however, is to easily be able to reconstruct why changes were made and their impacts. You may have noticed that our [commit style](../../conventions/git/commits.md) is written specifically for this goal as well.
+Again, the history is a tool to help readers understand what happened. It is not useful for future readers to know the list of things that were changed between the first attempt and the version that is finally merged. What is useful, however, is to easily be able to reconstruct why changes were made and their impacts. You may have noticed that our [commit style](../opensavvy-commits.md) is written specifically for this goal as well.
 
 !!! note ""
     Do you think this document was written in a single sitting? It wasn't: I wrote the sections out of order, and went back to previously-written sections multiple times to edit things or add new information. However, that information is useless for anyone else reading this, so I reworked the history to look like I did do it on the first try, in order of reading. If there were any errors found during review, they have been edited out so they cannot be found in the final version, even looking at the history.

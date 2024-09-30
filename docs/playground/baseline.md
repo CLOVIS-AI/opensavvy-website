@@ -56,7 +56,7 @@ Useful links:
 
 [Dev containers](https://containers.dev/) is a standard for containerizing the development environment, created by Microsoft. [GitHub Codespaces](https://github.com/features/codespaces) uses them to run a project in the cloud, and IDEs can use them to locally start a containerized development environment, so you don't have to install anything.
 
-Because it is possible to start projects locally in a container, and not just in the cloud, dev containers can be used as a daily driver on a project to entirely avoid configuring the environment. The specification is also more complete, allowing to start services using docker-compose, etc (though support by IDE varies).
+Because it is possible to start projects locally in a container, and not just in the cloud, dev containers can be used as a daily driver on a project to entirely avoid configuring the environment. The specification is also more complete, allowing to start services using docker-compose, etc. However, support by IDE varies.
 
 Dev containers are configured in the [.devcontainer](../../.devcontainer) directory.
 
