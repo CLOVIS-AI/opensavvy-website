@@ -7,6 +7,7 @@ In this section, we showcase our vision, and teach you how to contribute to the 
 <div class="grid cards" markdown>
 
 - The Playgrounds are ready-to-use self-updating project templates with documentation, CI/CD… • [Learn more](playground.md)
+- Stability guarantees followed by our projects • [How we avoid breaking your work](stability.md)
 - Open Source is based on licenses • [See which ones we approve](licenses.md)
 
 </div>
