@@ -15,7 +15,7 @@ The following software is needed:
 
     [Official documentation link](https://git-scm.com/download/linux).
 
-=== "MacOS"
+=== "macOS"
     Install Git in one of the ways described in the [official documentation](https://git-scm.com/download/mac).
 
 === "Windows"
