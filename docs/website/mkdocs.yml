@@ -124,6 +124,7 @@ nav:
   - Open Source:
       - open-source/index.md
       - open-source/playground.md
+      - open-source/stability.md
       - open-source/licenses.md
       - Tutorials:
           - Contributing to open source:
