@@ -22,7 +22,7 @@ These labels are given to an entire repository, or to a project in a repository.
 - **Beta**: If you're feeling adventurous. We consider the core of the project to be usable, but it is still lacking in some ways. This is a stabilization phase: it is unlikely that the API surface will change in major ways, but it is still possible.
 - **Stable**: We consider the project ready to use in any context. Major changes will go through a deprecation phase and only happen according to the rules of Semantic Versioning.
 - **Deprecated**: We have decided to stop working on the project. The project still follows exactly the same rules as if it was Stable, but we likely won't be making any major changes.
-- **Archived**: We have entirely stopped working on the project. It is possible we may still make occasional modifications.
+- **Archived**: We have entirely stopped working on the project. It is possible we may still make occasional modifications, but that is unlikely. It is possible we do not accept contributions anymore, but you may be able to fork the project (depending on the licence).
 
 Experimental, alpha and beta levels can only happen for an entire repository pre-`1.0.0`, or be marked as a pre-release (e.g. `1.0.0-alpha`). Therefore, version `2.0.0` must be stable or a later level. The pre-release marker doesn't necessarily match the level (e.g. `1.0.0-rc.2` may be experimental, alpha or beta).
 

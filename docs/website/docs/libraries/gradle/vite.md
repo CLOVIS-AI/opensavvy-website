@@ -1,4 +1,4 @@
-# Vite for Kotlin (Beta)
+# Vite for Kotlin
 
 By default, Kotlin uses Webpack when transpiling to JavaScript. Webpack is quite old, consumes a lot of RAM, and can be quite slow to automatically-reload projects.
 
@@ -7,6 +7,7 @@ We have created a Gradle plugin allowing to use Vite in Kotlin/JS projects.
 
 <div class="grid cards" markdown>
 
+- [Documentation](https://opensavvy.gitlab.io/automation/kotlin-vite/api-docs/)
 - [Repository](https://gitlab.com/opensavvy/automation/kotlin-vite)
 - Licensed under **Apache 2.0**
 

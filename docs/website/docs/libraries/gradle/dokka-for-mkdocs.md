@@ -1,4 +1,4 @@
-# Dokka for MkDocs (Experimental)
+# Dokka for MkDocs (Alpha)
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) is our preferred tool for writing documentation websites (including this one!). It is often used to write detailed tutorials or articles describing the overview of a project.
 
@@ -10,6 +10,7 @@ Dokka for MkDocs is a custom output format for Dokka, allowing it to embed the e
 
 <div class="grid cards" markdown>
 
+- [Website](https://opensavvy.gitlab.io/automation/dokka-material-mkdocs/docs/)
 - [Repository](https://gitlab.com/opensavvy/automation/dokka-material-mkdocs)
 - Licensed under **Apache 2.0**
 - Supports **all Kotlin platforms**

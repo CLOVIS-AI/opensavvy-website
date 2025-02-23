@@ -27,6 +27,15 @@ Groundwork is a collection of Kotlin Multiplatform libraries offering various fu
 
 </div>
 
+## Ecosystems
+
+<div class="grid cards" markdown>
+
+- **KtMongo:** the next MongoDB driver for Kotlin • [Learn more](ecosystem/ktmongo.md)
+- **CEL:** fast, safe expression language • [Learn more](ecosystem/cel.md)
+
+</div>
+
 ## Compose UI
 
 Compose UI is a technology created by Google, and ported to some platforms by JetBrains. We create tools to use Compose more easily on more platforms.

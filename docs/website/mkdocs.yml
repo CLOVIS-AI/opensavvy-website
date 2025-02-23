@@ -98,6 +98,9 @@ nav:
           - libraries/groundwork/spine.md
           - libraries/groundwork/indolent.md
           - libraries/groundwork/sentier.md
+      - Ecosystems:
+          - libraries/ecosystem/ktmongo.md
+          - libraries/ecosystem/cel.md
       - User interface:
           - libraries/ui/decouple.md
           - libraries/ui/lazy-layouts.md
