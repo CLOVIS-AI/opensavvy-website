@@ -1,4 +1,4 @@
-# Material You (Experimental)
+# Material You (Alpha)
 
 Material You is the algorithm powering Android's Material3 dynamic color theme: the user can select a few main colors, and the algorithm generates an entire palette for all components of an application.
 
