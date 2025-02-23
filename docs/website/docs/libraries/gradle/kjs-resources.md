@@ -6,6 +6,7 @@ This project contains two Gradle plugins: the `producer` plugin exposes static r
 
 <div class="grid cards" markdown>
 
+- [Documentation](https://opensavvy.gitlab.io/automation/kotlin-js-resources/api-docs/)
 - [Repository](https://gitlab.com/opensavvy/automation/kotlin-js-resources)
 - Licensed under **Apache 2.0**
 
