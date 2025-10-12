@@ -10,7 +10,7 @@ Dokka for MkDocs is a custom output format for Dokka, allowing it to embed the e
 
 <div class="grid cards" markdown>
 
-- [Website](https://opensavvy.gitlab.io/automation/dokka-material-mkdocs/docs/)
+- [Website](https://dokka-mkdocs.opensavvy.dev/)
 - [Repository](https://gitlab.com/opensavvy/automation/dokka-material-mkdocs)
 - Licensed under **Apache 2.0**
 - Supports **all Kotlin platforms**
