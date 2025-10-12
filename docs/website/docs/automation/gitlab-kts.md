@@ -41,7 +41,7 @@ build:
 
 <div class="grid cards" markdown>
 
-- [Website](https://opensavvy.gitlab.io/automation/gitlab-ci.kt/docs/)
+- [Website](https://gitlab-ci-kts.opensavvy.dev)
 - [Repository](https://gitlab.com/opensavvy/automation/gitlab-ci.kt)
 - Licensed under **Apache 2.0**
 
