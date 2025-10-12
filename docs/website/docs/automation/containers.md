@@ -7,6 +7,7 @@ We regularly build and update containers for the various technologies we build p
 <div class="grid cards" markdown>
 
 - [Repository](https://gitlab.com/opensavvy/automation/containers)
+- [Registry](https://gitlab.com/opensavvy/automation/containers/container_registry)
 - Licensed under **Apache 2.0**
 
 </div>
