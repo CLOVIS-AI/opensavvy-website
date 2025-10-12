@@ -23,11 +23,11 @@ liveUsers.find {
 
 <div class="grid cards" markdown>
 
-- [Website](https://opensavvy.gitlab.io/ktmongo/docs)
+- [Website](https://ktmongo.opensavvy.dev)
 - [Repository](https://gitlab.com/opensavvy/ktmongo)
 - Licensed under **Apache 2.0**
 - Supports the **JVM**
-- May support more platforms in the future
+- Will support more platforms in the future
 - Usable with or without coroutines
 
 </div>
