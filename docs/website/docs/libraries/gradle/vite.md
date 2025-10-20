@@ -7,7 +7,7 @@ We have created a Gradle plugin allowing to use Vite in Kotlin/JS projects.
 
 <div class="grid cards" markdown>
 
-- [Documentation](https://opensavvy.gitlab.io/automation/kotlin-vite/api-docs/)
+- [Documentation](https://vite-kotlin.opensavvy.dev/)
 - [Repository](https://gitlab.com/opensavvy/automation/kotlin-vite)
 - Licensed under **Apache 2.0**
 
