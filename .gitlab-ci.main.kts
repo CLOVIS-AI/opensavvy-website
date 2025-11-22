@@ -70,6 +70,7 @@ gitlabCi {
 			script {
 				shell("mkdir -p public")
 				shell("mv -T docs-website public")
+				shell("mv -T docs/website/static public")
 			}
 
 			artifacts {
