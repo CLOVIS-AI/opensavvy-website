@@ -15,7 +15,7 @@ val ciContainers = "0.8.7"
 /**
  * The URL of the website built by /docs/website.
  */
-val siteUrl = "\$CI_PAGES_URL"
+val siteUrl = "https://opensavvy.dev"
 
 // ***
 
