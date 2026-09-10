@@ -1,4 +1,4 @@
-# Spine (Alpha)
+# Spine (Beta)
 
 [Ktor](https://ktor.io/) has greatly simplified multiplatform HTTP development by providing symmetric DSLs and allowing sharing DTOs between clients and servers.
 
