@@ -1,4 +1,4 @@
-# Spine (Alpha)
+# Spine (Beta)
 
 [Ktor](https://ktor.io/) has greatly simplified multiplatform HTTP development by providing symmetric DSLs and allowing sharing DTOs between clients and servers.
 
@@ -39,6 +39,7 @@ httpClient.request(Users.create).isSuccessful()
 
 <div class="grid cards" markdown>
 
+- [Website](https://spine.opensavvy.dev/)
 - [Repository](https://gitlab.com/opensavvy/groundwork/spine)
 - Licensed under **Apache 2.0**
 - Supports [most Kotlin platforms](../supported-platforms.md)
